@@ -20,9 +20,9 @@ I'm a software architect in Bordeaux, France. This account holds the integration
 - [make-mailprobe](https://github.com/jamalofski/make-mailprobe), Make app
 - [mailprobe-wordpress](https://github.com/jamalofski/mailprobe-wordpress), WordPress and WooCommerce plugin
 
-## pdfkiln
+## PDFKiln
 
-[pdfkiln](https://github.com/jamalofski/pdfkiln) is a drop-in replacement for wkhtmltopdf, which is archived: the same command line, so pdfkit, knp-snappy, laravel-snappy, wicked_pdf and Rotativa keep working unchanged, on a current Chromium with its sandbox on. MIT license; packages for Debian and Ubuntu (APT), Windows, macOS, Docker and npm.
+[PDFKiln](https://github.com/pdfkiln/pdfkiln) ([pdfkiln.org](https://pdfkiln.org)) is a drop-in replacement for wkhtmltopdf, which is archived: the same command line, so pdfkit, knp-snappy, laravel-snappy, wicked_pdf and Rotativa keep working unchanged, on a current Chromium with its sandbox on. MIT license; packages for Debian and Ubuntu (APT), Windows, Scoop, Homebrew, Docker, Composer and npm.
 
 ## Other products
 
